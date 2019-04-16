@@ -1,3 +1,6 @@
 target
 tomcat.5000/
 tomcat.8080/
+
+jmeter/docs/
+jmeter/printable_docs/

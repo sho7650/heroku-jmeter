@@ -1,0 +1,21 @@
+{
+  "name": "Takashi",
+  "description": "heroku jmeter",
+  "repository": "https://github.com/sho7650/heroku-jmeter",
+  "keywords": [
+    "test",
+    "load",
+    "performance",
+    "stress"
+  ],
+  "env": [
+    {
+      "JMETER_HOME": "/app/local/jmeter"
+    }
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
