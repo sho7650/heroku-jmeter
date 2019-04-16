@@ -1,2 +1,1 @@
-web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war
-worker: /app/local/jmeter/bin/jmeter-server
+worker: /app/jmeter/bin/jmeter-server
