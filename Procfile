@@ -1,1 +1,1 @@
-worker: /app/jmeter/bin/jmeter-server
+worker: cd /app/jmeter/bin && ./jmeter-server
